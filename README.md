@@ -24,7 +24,3 @@ Erzincan Binali Yıldırım Üniversitesi'nde Bilgisayar Mühendisliği okuyorum
 
 - 📧 aysenurdurmus986@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/aysenurdurmus)
-
-## 📊 GitHub İstatistiklerim
-
-![Ayşenur'un GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=Aysenurdurmuss&show_icons=true&theme=default&hide_border=true)
